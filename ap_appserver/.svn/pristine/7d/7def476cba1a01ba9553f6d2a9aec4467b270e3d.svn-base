@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="ap_appserver"
+  id="myeclipse.1407977499646"
+  context-root="/apserver"
+  j2ee-spec="5.0"
+  archive="ap_appserver.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+

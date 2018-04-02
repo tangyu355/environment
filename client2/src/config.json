@@ -1,0 +1,12 @@
+{
+  "api": {
+    "hostname": "",
+    "pathname": "/apserver"
+  },
+  "devapi": {
+    "hostname": "localhost",
+    "port": 8080,
+    "pathname": "apserver"
+  }
+}
+
